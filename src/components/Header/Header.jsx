@@ -1,5 +1,5 @@
-import "../../App.css";
 import "./Header.css";
+
 import ParcelLogo from "../../assets/logo-parcel.png";
 
 export default function Header() {
